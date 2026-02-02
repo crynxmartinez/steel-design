@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd steel-builder && npm install && npm run build",
+  "outputDirectory": "steel-builder/dist",
+  "installCommand": "cd steel-builder && npm install",
+  "framework": "vite"
+}
